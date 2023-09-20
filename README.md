@@ -10,9 +10,8 @@
 - 🛠️ [Instalação](#%EF%B8%8F-instalação)
 - 📂 [Estrutura do Projeto](#-estrutura-do-projeto)
 - 💻 [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- 🤝 [Contribuições](#-contribuições)
-- 📄 [Licença](#-licença)
 
+- 
 ##  Desktop 💻
 ![Desktop Food Explorer](https://cdn.discordapp.com/attachments/1134579917565218897/1147193914340671578/Screenshot_2023-09-01_at_12-38-40_Food_Explorer.png)
 
@@ -33,7 +32,7 @@ Siga os passos abaixo para instalar e configurar a aplicação em um ambiente lo
 1. 📥 **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/GabrielFTeles/Food-Explorer.git
+    git clone https://github.com//luizleo2/FrontEndFood.git
     ```
 
 2. 📂 **Navegue para o diretório do projeto:**
@@ -102,31 +101,4 @@ Liste as principais tecnologias e bibliotecas que você usou no projeto, como:
 - [**styled-components**](https://styled-components.com/)
 - [**swiper**](https://swiperjs.com/)
 
-## 🤝 Contribuições
 
-Agradeço por considerar contribuir para a **Food Explorer API**! Contribuições são importantes para melhorar e evoluir o projeto. Aqui estão algumas maneiras pelas quais você pode contribuir:
-
-### 1. Abertura de Issues
-
-Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue. Certifique-se de incluir detalhes suficientes para que possamos entender o problema ou a sugestão.
-
-### 2. Envio de Pull Requests (PRs)
-
-Se você deseja fazer alterações no código, pode criar um fork deste repositório, fazer suas alterações no seu fork e, em seguida, enviar um Pull Request. Certifique-se de descrever as alterações que você fez e explicar como isso beneficia o projeto.
-
-### 3. Melhoria da Documentação
-
-A documentação é fundamental para manter a API acessível e fácil de entender. Se você identificar partes do código que precisam de documentação adicional, pode contribuir adicionando comentários claros ou atualizando o README.
-
-### Como Contribuir
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch para suas alterações: `git checkout -b feature/nome-da-sua-feature`.
-3. Faça suas alterações e commit: `git commit -m 'Adiciona nova funcionalidade'`.
-4. Envie suas alterações para o GitHub: `git push origin feature/nome-da-sua-feature`.
-5. Abra um Pull Request para este repositório.
-
-🤝 Agradeço por sua contribuição!
-## 📄 Licença
-
-O app **Food Explorer** é distribuída sob a licença MIT. Isso significa que você pode usar, modificar e distribuir o código desta API livremente, desde que inclua a declaração de direitos autorais e a licença MIT em qualquer cópia ou parte dela.

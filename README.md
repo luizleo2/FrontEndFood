@@ -65,6 +65,30 @@ Siga os passos abaixo para instalar e configurar a aplicação em um ambiente lo
 
 Agora a **Aplicação Food Explorer** está instalada, configurada e em execução no seu ambiente local. Você pode começar a usá-la para testes e desenvolvimento.
 
+
+## 🔐 Contas de Demonstração
+
+Para facilitar os testes da aplicação, disponibilizo estas contas de demonstração com diferentes níveis de acesso:
+
+### Admin
+
+- **E-mail:** `admin@email.com`
+- **Senha:** `admin`
+
+Como administrador, você tem acesso total à aplicação, incluindo a capacidade de adicionar, editar e excluir itens do menu.
+
+### Usuário Normal
+
+- **E-mail:** `teste@email.com`
+- **Senha:** `123456`
+
+Os usuários normais têm acesso limitado e podem visualizar o menu, adicionar items ao carrinho e gerenciar seus favoritos.
+
+Sinta-se à vontade para usar estas contas de demonstração para explorar a nossa aplicação.
+
+> **Observação:** Lembre-se de que estas são contas de demonstração e não devem ser usadas para fins de produção ou para armazenar informações sensíveis.
+
+
 ## 📂 Estrutura do Projeto
 
 ```shell
